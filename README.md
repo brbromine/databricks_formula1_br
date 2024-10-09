@@ -80,6 +80,7 @@ Azure Data Factory has 3 pipelines which are
 6. raw: create raw table from the location in Azure Date Lake Storage Gen2
 7. set-up: demonstrate different ways to access Azure Data Lake Gen2 containers into the Databricks file system.
 8. trans: transform all necessary data to be used to visualize in analysis step
+9. utils: use to create or delete some of databases
 
 ### Tools
 1. PySpark
